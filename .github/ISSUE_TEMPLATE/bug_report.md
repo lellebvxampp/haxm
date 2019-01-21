@@ -66,6 +66,14 @@ Steps to reproduce the behavior:
 Expectation: 
 
 
+**Actual Behavior**
+<!-- About what you actually saw. -->
+
+
+**Reproducibility**
+<!-- About how many times tried, and how many times fails out of them. -->
+
+
 **Diagnostic Information**
 
 <!--
