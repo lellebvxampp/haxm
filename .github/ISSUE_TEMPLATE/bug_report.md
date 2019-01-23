@@ -66,10 +66,6 @@ Steps to reproduce the behavior:
 Expectation: 
 
 
-**Actual Behavior**
-<!-- About what you actually saw. -->
-
-
 **Reproducibility**
 
 <!-- The probability of getting the issue reproduced after following the above steps, e.g. 100%, 50%, etc. -->
