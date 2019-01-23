@@ -71,7 +71,8 @@ Expectation:
 
 
 **Reproducibility**
-<!-- About how many times tried, and how many times fails out of them. -->
+
+<!-- The probability of getting the issue reproduced after following the above steps, e.g. 100%, 50%, etc. -->
 
 
 **Diagnostic Information**
